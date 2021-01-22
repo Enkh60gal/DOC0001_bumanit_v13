@@ -7,7 +7,7 @@
 
 ..  toctree::
 
-    bumanit_hr <../../modules/howto.rst>
+    bumanit_hr <bumanit_hr.rst>
     bumanit_hr_annual_wage <../../modules/howto.rst>
     bumanit_hr_attendance <../../modules/howto.rst>
     bumanit_hr_attendance_leave_report <../../modules/howto.rst>
